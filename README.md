@@ -45,7 +45,7 @@
 ## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbasThomas&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbasThomas&theme=radical" alt="GitHub streak" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbasThomas&theme=radical&v=1" />
 </p>
 
 <p align="center">
