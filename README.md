@@ -7,49 +7,55 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✨-Creativity-brightgreen?style=for-the-badge" alt="Creativity" />
-  <img src="https://img.shields.io/badge/⚡-Fast+Learner-blue?style=for-the-badge" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/🎨-UI%2FUX-purple?style=for-the-badge" alt="UI/UX" />
+  <img src="https://img.shields.io/badge/✨-Creativity-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡-Fast+Learner-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎨-UI%2FUX-purple?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 - 💡 Passionate about **building modern, user-friendly applications**
-- 🎯 Focused on **clean code, smooth UI/UX, and performance**
-- 🌱 Currently mastering **TypeScript, MongoDB, and advanced SQL**
-- ⚡ Fun fact: I can debug faster with 🎵 music & ☕ coffee
+- 🎯 Focused on **clean code, smooth UI/UX, and high performance**
+- 🌱 Currently mastering **TypeScript, MongoDB, and Advanced SQL**
+- 🛠 Experienced in both **frontend and backend** development
+- ⚡ Fun fact: I debug faster with 🎵 music & ☕ coffee
 
 ---
 
-## 💻 Tech Stack
+## 💻 Languages & Tech Stack
 
-**Languages & Frameworks**
+**Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,c,java,react,node" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,java,python,php" />
+</p>
+
+**Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,node,tailwind,express" />
 </p>
 
 **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-**Tools & IDEs**
+**Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,figma,idea" alt="Tools" />
-  <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma,idea,git" />
+  <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbasThomas&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbasThomas&theme=radical&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbasThomas&show_icons=true&theme=radical&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbasThomas&theme=radical&v=1" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbasThomas&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbasThomas&theme=react-dark&bg_color=20232a&hide_border=true" />
 </p>
 
 ---
