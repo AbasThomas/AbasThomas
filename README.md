@@ -49,8 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abasthomas&theme=tokyonight&hide_border=true"/>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akinloluwami&theme=highcontrast)](https://git.io/streak-stats)</p>
 
 
 ## ⚡ **Contribution Graph**
