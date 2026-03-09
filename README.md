@@ -48,9 +48,7 @@
   <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abasthomas&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akinloluwami&theme=highcontrast)](https://git.io/streak-stats)</p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akinloluwami&theme=highcontrast)](https://git.io/streak-stats)
 
 ## ⚡ **Contribution Graph**
 
